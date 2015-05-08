@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ dir
+comment0.target=ProjectileSpecial(int,\ int,\ double)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=double\ distance()
+comment4.params=
+comment4.target=void\ explode()
+comment5.params=screen
+comment5.target=void\ render(com.gamc.webs.graphics.Screen)
+numComments=6

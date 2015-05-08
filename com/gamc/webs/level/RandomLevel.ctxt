@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=RandomLevel(int,\ int)
+comment1.params=
+comment1.target=void\ generateLevel()
+numComments=2

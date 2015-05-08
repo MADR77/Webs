@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=size\ x\ y\ sheet
+comment0.target=Sprite(int,\ int,\ int,\ SpriteSheet)
+comment1.params=size\ color
+comment1.target=Sprite(int,\ int)
+comment2.params=color
+comment2.target=void\ setColor(int)
+comment3.params=
+comment3.target=void\ load()
+numComments=4

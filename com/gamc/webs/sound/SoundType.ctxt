@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=soundFile
+comment0.target=SoundType(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getSoundFile()
+numComments=2

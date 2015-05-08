@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=s\ font\ color\ w\ h\ g\ yOffset
+comment0.target=void\ drawCenteredString(java.lang.String,\ java.awt.Font,\ java.awt.Color,\ int,\ int,\ java.awt.Graphics,\ int)
+numComments=1

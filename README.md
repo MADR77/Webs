@@ -1,4 +1,4 @@
-# Webs
-Computer Science Project 2.0
+# non-stop
+My CS 20% Project
 
-This is an upgraded version of the old Non-Stop video game.
+

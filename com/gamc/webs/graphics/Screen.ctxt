@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=Screen(int,\ int)
+comment1.params=
+comment1.target=void\ clear()
+comment2.params=xp\ yp\ sprite
+comment2.target=void\ renderTile(int,\ int,\ Sprite)
+comment3.params=xp\ yp\ sprite
+comment3.target=void\ renderProjectile(int,\ int,\ Sprite)
+comment4.params=xp\ yp\ sprite
+comment4.target=void\ renderPlayer(int,\ int,\ Sprite)
+comment5.params=xOffset\ yOffset
+comment5.target=void\ setOffset(int,\ int)
+numComments=6

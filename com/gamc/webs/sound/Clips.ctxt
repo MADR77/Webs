@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Clips()
+comment1.params=type
+comment1.target=javax.sound.sampled.Clip\ getClip(SoundType)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ update()
+comment1.params=screen
+comment1.target=void\ render(com.gamc.webs.graphics.Screen)
+comment2.params=
+comment2.target=void\ remove()
+comment3.params=
+comment3.target=boolean\ isRemoved()
+comment4.params=level
+comment4.target=void\ init(com.gamc.webs.level.Level)
+numComments=5

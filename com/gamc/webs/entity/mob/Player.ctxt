@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ input\ username
+comment0.target=Player(int,\ int,\ com.gamc.webs.input.KeyInput,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getUsername()
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=void\ updateShooting()
+comment4.params=x\ y\ dir
+comment4.target=void\ shoot(int,\ int,\ double)
+comment5.params=x\ y\ dir
+comment5.target=void\ shootSpecial(int,\ int,\ double)
+comment6.params=screen
+comment6.target=void\ render(com.gamc.webs.graphics.Screen)
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=xa\ ya
+comment0.target=void\ move(int,\ int)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=xa\ ya
+comment2.target=boolean\ collision(int,\ int)
+comment3.params=
+comment3.target=void\ render()
+numComments=4
